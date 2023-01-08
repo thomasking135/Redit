@@ -1,0 +1,10 @@
+C:\Users\New User\source\repos\REDIT\bin\Debug\REDIT.exe.config
+C:\Users\New User\source\repos\REDIT\bin\Debug\REDIT.exe
+C:\Users\New User\source\repos\REDIT\bin\Debug\REDIT.pdb
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.Form1.resources
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.Properties.Resources.resources
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.exe
+C:\Users\New User\source\repos\REDIT\obj\Debug\REDIT.pdb
